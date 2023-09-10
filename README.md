@@ -38,7 +38,7 @@ track: The user's specified track (e.g., "backend").
 ### Example GET request:
 
 ```
-http://example.com/api?slack_name=AngieO_name&track=backend
+https://hngx-backendone.onrender.com/api?slack_name=AngieO&track=backend
 ```
 
 ## Sample Response
