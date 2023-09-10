@@ -16,7 +16,7 @@ app.get('/api', (req, res) => {
   const currentUTC = moment().utc().format();
 
   // GitHub URLs
-  const githubFileURL = 'https://github.com/Angiephoenix/repo/blob/main/file_name.ext';
+  const githubFileURL = 'https://github.com/Angiephoenix/hngxBackend1/blob/master/app.js';
   const githubRepoURL = 'https://github.com/Angiephoenix/hngxBackend1.git';
 
   // Response JSON
